@@ -1,7 +1,7 @@
 
 
 ### components
-| 名称 | master | alibaba |
+| name | master | alibaba |
 |:---|:---|:---|
 | core | spring cloud netflix Hoxton.SR3  |  spring cloud alibaba 2.2.2.RELEASE  |
 | register | spring cloud netflix eureka      |  spring cloud alibaba nacos          |
